@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zodiac</string>
+    <string name="heading">Welcome to Zodiac</string>
+    <string name= "enterMonth"> Enter the month you were born in using numbers 1-12 (i.e. January is 1)</string>
+    <string name= "enterDay"> Enter the day you were born on</string>
+    <string name= "zodiacButton">Find my Zodiac Sign</string>
+    <string name= "dayBox">Enter the day</string>
+    <string name= "monthBox">Enter the month</string>
+    <string name= "output">Since your birthday is %monthVal$s / %day$s, your Zodiac Sign is %zodiac$s</string>
+</resources>
